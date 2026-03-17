@@ -1,5 +1,5 @@
 # 🛡️ Operación DataSombra
-### HackOnRD — Workshop: Seguridad en AI Data Pipelines con Microsoft Fabric
+### HackOnRD 2026 — Workshop: Seguridad en AI Data Pipelines con Microsoft Fabric
 
 ---
 
