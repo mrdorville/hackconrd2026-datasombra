@@ -1,5 +1,5 @@
 # 🛡️ Operación DataSombra
-### HackOnRD 2026 — Workshop: Seguridad en AI Data Pipelines con Microsoft Fabric
+### HackConRD 2026 — Workshop: Seguridad en AI Data Pipelines con Microsoft Fabric
 
 ---
 
@@ -22,7 +22,7 @@
 ## 🗂️ Estructura del repositorio
 
 ```
-hackonrd-datasombra/
+hackconrd2026-datasombra/
 │
 ├── README.md                        ← estás aquí
 │
@@ -35,7 +35,7 @@ hackonrd-datasombra/
 │   └── kql_queries_datasombra.md    ← 12 KQL queries para Microsoft Sentinel
 │
 └── slides/
-    └── datasombra_hackonrd.pptx     ← presentación del workshop
+    └── datasombra_hackconrd2026.pptx     ← presentación del workshop
 ```
 
 ---
@@ -59,7 +59,7 @@ hackonrd-datasombra/
 
 1. Ve a [app.fabric.microsoft.com](https://app.fabric.microsoft.com)
 2. Clic en **Workspaces → + New workspace**
-3. Nombre: `HackOnRD-DataSombra`
+3. Nombre: `HackConRD-DataSombra`
 4. License mode: **Fabric capacity** o **Trial**
 5. Clic en **Apply**
 
@@ -163,7 +163,7 @@ El archivo `queries/kql_queries_datasombra.md` contiene 12 queries organizadas e
 
 ## 👤 Autor
 
-Presentado en **HackOnRD** — El evento de ciberseguridad de República Dominicana
+Presentado en **HackConRD** — El evento de ciberseguridad de República Dominicana
 
 ---
 
