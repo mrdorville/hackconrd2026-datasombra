@@ -35,7 +35,7 @@ hackconrd2026-datasombra/
 │   └── kql_queries_datasombra.md    ← 12 KQL queries para Microsoft Sentinel
 │
 └── slides/
-    └── datasombra_hackconrd2026.pptx     ← presentación del workshop
+    └── datasombra_hackconrd2026.pdf     ← presentación del workshop
 ```
 
 ---
